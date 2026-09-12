@@ -57,16 +57,6 @@ Learn → Build → Break → Debug → Improve → Repeat
 
 ---
 
-## GitHub 
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/ANMOL0me/ANMOL0me/output/activity-graph.svg"
-  width="95%"
-  alt="GitHub Contribution Graph"
-/>
-
-</div>
 ---
 
 ## Contribution Streak
@@ -74,6 +64,13 @@ Learn → Build → Break → Debug → Improve → Repeat
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ANMOL0me&theme=transparent&hide_border=true"/>
 </p>
+<div align="center">
+<img
+  src="<img
+  src="https://raw.githubusercontent.com/ANMOL0me/assests/activity-graph.svg"
+  width="95%"
+  alt="GitHub Contribution Graph"
+/>
 
 ---
 
