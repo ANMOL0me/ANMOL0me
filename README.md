@@ -77,8 +77,10 @@ Learn → Build → Break → Debug → Improve → Repeat
 
 <p align="center">
   <a href="https://github.com/ANMOL0me">
-    <img src="https://img.shields.io/badge/GitHub-ANMOL0me-181717?style=for-the-badge&logo=Github"/>
+    <img src="https://img.shields.io/badge/GitHub-ANMOL0me-181717?"/>
   </a>
+
+  
   <a href="https://www.linkedin.com/in/anmol-soni-18op06/">
     <img src="assests/img.png" alt="LinkedIn"
     width="10%"
