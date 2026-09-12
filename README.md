@@ -68,7 +68,7 @@ Learn → Build → Break → Debug → Improve → Repeat
 <img
   src="assests/contributions.png"
   width="95%"
-  height="50%"
+  height="20%"
   alt="GitHub Contribution Graph"
 />
 
