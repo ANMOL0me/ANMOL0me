@@ -66,9 +66,8 @@ Learn → Build → Break → Debug → Improve → Repeat
 </p>
 <div align="center">
 <img
-  src="assests/contributions.png"
+  src="assests/image.png"
   width="95%"
-  height="20%"
   alt="GitHub Contribution Graph"
 />
 
