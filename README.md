@@ -80,7 +80,10 @@ Learn → Build → Break → Debug → Improve → Repeat
     <img src="https://img.shields.io/badge/GitHub-ANMOL0me-181717?style=for-the-badge&logo=Github"/>
   </a>
   <a href="https://www.linkedin.com/in/anmol-soni-18op06/">
-    <img src="assests/img.png" alt="LinkedIn">
+    <img src="assests/img.png" alt="LinkedIn"
+    width="10%"
+    height="10%"
+    >
   </a>
 </p>
 
