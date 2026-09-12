@@ -55,13 +55,16 @@ Learn → Build → Break → Debug → Improve → Repeat
 
 ---
 
-## GitHub Stats
+## GitHub 
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANMOL0me&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANMOL0me&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
+<img
+  src="https://raw.githubusercontent.com/ANMOL0me/ANMOL0me/output/activity-graph.svg"
+  width="95%"
+  alt="GitHub Contribution Graph"
+/>
 
+</div>
 ---
 
 ## Contribution Streak
