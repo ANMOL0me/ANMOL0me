@@ -66,9 +66,9 @@ Learn → Build → Break → Debug → Improve → Repeat
 </p>
 <div align="center">
 <img
-  src="<img
-  src="C:\Users\APPLE\Desktop\ANMOL0me\assests\contributions.png"
+  src="assests/contributions.png"
   width="95%"
+  height="50%"
   alt="GitHub Contribution Graph"
 />
 
