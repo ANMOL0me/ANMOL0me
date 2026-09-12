@@ -67,7 +67,7 @@ Learn → Build → Break → Debug → Improve → Repeat
 <div align="center">
 <img
   src="<img
-  src="https://raw.githubusercontent.com/ANMOL0me/assests/activity-graph.svg"
+  src="C:\Users\APPLE\Desktop\ANMOL0me\assests\contributions.png"
   width="95%"
   alt="GitHub Contribution Graph"
 />
